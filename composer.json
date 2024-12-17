@@ -1,0 +1,7 @@
+{
+    "name": "tech-savvy/stylesync-web",
+    "description": "PHP backup.",
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.6"
+    }
+}
